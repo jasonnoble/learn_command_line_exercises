@@ -10,4 +10,4 @@
 | Command  | What the command does                  |
 | -------- |:--------------------------------------:|
 | pwd      | print working directory                |
-| ...      | ...                                    |
+| hostname | foo                                    |
