@@ -1,2 +1,3 @@
 # learn_command_line_exercises
-Learn command line!
+
+These are exercises I did for learning command line programs
